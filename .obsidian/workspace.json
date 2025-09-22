@@ -1,0 +1,388 @@
+{
+  "main": {
+    "id": "bb4dc1e903c8b32c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9557c756d61bfd3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b73df370a97f754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕业设计/毕业设计说明书/个性化推荐系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "个性化推荐系统"
+            }
+          },
+          {
+            "id": "276414ef8e6a0357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕业设计/豆瓣书籍数据分析方向.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "豆瓣书籍数据分析方向"
+            }
+          },
+          {
+            "id": "e6f43201e6f03f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玩卜/玩卜.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "玩卜"
+            }
+          },
+          {
+            "id": "f129f268469ad912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "东玄/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "52afaa2385248b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "东玄/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "dd15912146584662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常用git命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用git命令"
+            }
+          },
+          {
+            "id": "abb673d0a3bbe33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "维度守望大纲/未命名 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
+            }
+          },
+          {
+            "id": "a8b39d5bb1386de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "维度守望大纲/未命名 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 3"
+            }
+          },
+          {
+            "id": "8a3a8c32cb5fc8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "维度守望大纲/大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "60734b1c05b2e966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕业设计/未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "69c7b47b03deafe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中国古代星占/中古古代.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中古古代"
+            }
+          },
+          {
+            "id": "8ffe431b9a6cdc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "推荐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "推荐"
+            }
+          },
+          {
+            "id": "8a8634aa2dbb3821",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "附件袋子/Pasted image 20250419143834.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250419143834"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdcb1ffac0c5706b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ab986ed440be06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e733b4f8c6f4982",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e137926f0bae5dbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "52b3f2a3483c33da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "0646e0cf7d8de0a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ff6e78d9493a302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63354f9465a0554c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/头结点和不带头结点的区别.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "头结点和不带头结点的区别 的反向链接列表"
+            }
+          },
+          {
+            "id": "7975c632e5b7365e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/头结点和不带头结点的区别.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "头结点和不带头结点的区别 的出链列表"
+            }
+          },
+          {
+            "id": "363bcfe52bd122bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ff52a2bc8a0eb096",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构/头结点和不带头结点的区别.md"
+              },
+              "icon": "lucide-list",
+              "title": "头结点和不带头结点的区别 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "dd15912146584662",
+  "lastOpenFiles": [
+    "东玄/未命名.md",
+    "常用git命令.md",
+    "东玄/附件/Pasted image 20250827160910.png",
+    "东玄/附件/Pasted image 20250827160327.png",
+    "东玄/附件",
+    "梦想中的电脑/梦想中的电脑配置.md",
+    "附件袋子/Pasted image 20250503134838.png",
+    "附件袋子/Pasted image 20250503122043.png",
+    "附件袋子/Pasted image 20250425143554.png",
+    "附件袋子/Pasted image 20250425143509.png",
+    "附件袋子/Pasted image 20250415143646.png",
+    "玩卜/铁版算数/天干地支咋来啊的.md",
+    "公式推导.png",
+    "登录注册.md",
+    "假如我们成为情侣.md",
+    "未命名.md",
+    "Pasted image 20240630204918.png",
+    "Pasted image 20240708110956.png",
+    "CPI.md",
+    "中国古代星占/中古古代.md",
+    "玩卜/上经.md",
+    "玩卜/玩卜.md",
+    "预阅读书籍/未命名.md",
+    "东玄",
+    "维度守望大纲/相姑街.md",
+    "维度守望大纲/未命名 1.md",
+    "维度守望大纲/临时雨人设.md",
+    "毕业设计/未命名 1.md",
+    "预阅读书籍",
+    "同人创作/未命名 1.md",
+    "同人创作/未命名 3.md",
+    "同人创作/未命名.md",
+    "英语/常用日常短语.md",
+    "玩卜/铁版算数",
+    "未命名 1.md",
+    "玩卜",
+    "推荐.md",
+    "启动命令.md",
+    "中国古代星占",
+    "毕业设计/数据库.md",
+    "毕业设计/未命名.md",
+    "毕业设计/毕业设计说明书/功能满足.md",
+    "未命名 1",
+    "毕业设计/项目运行流程",
+    "oc/泉念方",
+    "毕业设计/毕业设计说明书",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
+  ]
+}
